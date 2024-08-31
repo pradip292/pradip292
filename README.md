@@ -16,7 +16,7 @@
 </p>
 
 
-## About Me
+## 🚀About Me
 
 Currently
 Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Hon's Data Science | Web Development 
@@ -33,7 +33,7 @@ Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Ho
 ---
 
 <!-- <p align="left"> <a href="https://twitter.com/pradipwarkhade7" target="blank"><img src="https://img.shields.io/twitter/follow/pradipwarkhade7?logo=twitter&style=for-the-badge" alt="pradipwarkhade7" /></a> </p> -->
-## Tech Stack
+## 🛠️ Tech Stack
 
 <h4 align="left">Languages:</h4>
 <p align="center">
@@ -76,7 +76,7 @@ Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Ho
 
 ---
   
-## GitHub Stats
+## 📊GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pradip292&show_icons=true&count_private=true&theme=react" alt="Your GitHub stats" />
@@ -85,6 +85,9 @@ Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Ho
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradip292&theme=react" alt="Your GitHub Streak" />
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradip292" alt="pradip292" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradip292&show_icons=true&locale=en&layout=compact&theme=react" alt="pradip292" /></p>
+
+---
+
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradip292&show_icons=true&locale=en&layout=compact&theme=react" alt="pradip292" /></p> -->
 
 
