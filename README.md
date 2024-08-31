@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradip Warkhade</h1>
-<h3 align="center">Aspiring Software Developer | Pursuing Software Engineering @Sanjivani College of Engineering (SCOE)  </h3>
+<h3 align="center">Aspiring Software Developer | Pursuing Software Engineering @SCOE </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip292&label=Profile%20views&color=0e75b6&style=flat" alt="pradip292" /> </p>
 
