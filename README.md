@@ -22,11 +22,14 @@ Currently
 Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Hon's Data Science | Web Development 
 - 🔭 I’m currently working on **Data Structures and Algorithms (DSA) in Java.**
 
+- 🔭 I’m also working on the project **AI-Powered Student Assistance Chatbot for DTE, Government of Rajasthan.**
+
 - 🌱 I’m currently learning **JavaScript, React, NodeJS**
 
 - 👯 I’m looking to collaborate on **web development, software engineering projects, and data science projects.**
 
 - 🤝 I’m looking for help with **contributing to open-source projects, particularly in web development, data science, and software engineering.**
+
 
 <!-- - 👨‍💻 All of my projects are available at [https://pradip292.github.io/portfolio_pradip292/](https://pradip292.github.io/portfolio_pradip292/) -->
 
@@ -85,6 +88,19 @@ Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Ho
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradip292&theme=react" alt="Your GitHub Streak" />
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradip292" alt="pradip292" /></a> </p>
+
+---
+
+## 🎓 Experience & Achievements
+
+ 🏆 Hackathons
+- BOROSA - Bosch Road Safety Hackathon (AIR 2)
+- BOSCH AutoVision X Hackathon (Finalist)
+
+ 🏅 Competitions
+- DIPEX-2024 – (Top 25 Teams)
+- Winner of the Innovative Idea Competition-2024  
+- Zonal-Level Recognition at Aviskar Competition 2023
 
 ---
 
