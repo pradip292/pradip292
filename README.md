@@ -1,6 +1,5 @@
 <h1 align="center">Hello ! , I'm Pradip Warkhade</h1>
 <h3 align="center">Aspiring Software Developer </h3>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip292&label=Profile%20views&color=0e75b6&style=flat" alt="pradip292" /> </p> -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
