@@ -59,7 +59,7 @@ Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Ho
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/React5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="React" />
+<!--   <img src="https://img.shields.io/badge/React5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="React" /> -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
