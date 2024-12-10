@@ -45,6 +45,7 @@ Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Ho
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Javascript-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 </p>
 
