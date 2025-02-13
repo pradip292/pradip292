@@ -15,20 +15,24 @@
   <img src="https://komarev.com/ghpvc/?username=pradip292&color=blueviolet" alt="Profile Views"/>
 </p>
 
-## 🚀About Me
-
+🚀 About Me
 Currently
-Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Hon's Data Science | Web Development 
-- 🔭 I’m currently working on **Data Structures and Algorithms (DSA) in Java.**
+🎓 Pursuing Software Engineering @ SCOE | 🌟🌟 Coder @ CodeChef (1450+ Ratings) | Cybersecurity Enthusiast
 
-- 🔭 I’m also working on the project **AI-Powered Student Assistance Chatbot for DTE, Government of Rajasthan.**
+🔭 Working on:
+Data Structures and Algorithms (DSA) in Java
+Cybersecurity research & hands-on projects
 
-- 🌱 I’m currently learning **JavaScript, React, NodeJS**
+🌱 Currently Learning:
+Offensive & Defensive Security Techniques
+Network Security, SIEM, and Threat Intelligence
+JavaScript, React, NodeJS
 
-- 👯 I’m looking to collaborate on **web development, software engineering projects, and data science projects.**
+👯 Looking to Collaborate on:
+Cybersecurity projects
 
-- 🤝 I’m looking for help with **contributing to open-source projects, particularly in web development, data science, and software engineering.**
-
+🤝 Seeking Guidance in:
+Security analysis, penetration testing, and open-source cybersecurity contributions
 
 <!-- - 👨‍💻 All of my projects are available at [https://pradip292.github.io/portfolio_pradip292/](https://pradip292.github.io/portfolio_pradip292/) -->
 
@@ -53,13 +57,13 @@ Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Ho
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<!--   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> -->
+<!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> -->
 <!--   <img src="https://img.shields.io/badge/Laravel-EF3E3E?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<!--   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> -->
 <!--   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> -->
 <!--   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> -->
-  <img src="https://img.shields.io/badge/React5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="React" />
+<!--   <img src="https://img.shields.io/badge/React5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="React" /> -->
 <!--   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> -->
 <!--   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> -->
@@ -70,7 +74,7 @@ Pursuing Software Engineering @SCOE |🌟🌟 Coder @CodeChef 1450+ Ratings | Ho
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+<!--   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" /> -->
 <!--   <img src="https://img.shields.io/badge/Spyder-2C2C2C?style=for-the-badge&logo=spyder&logoColor=white" alt="Spyder" /> -->
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
