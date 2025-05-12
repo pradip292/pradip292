@@ -1,8 +1,8 @@
-/*
+
 <h1 align="center">Hello ! , I'm Pradip Warkhade</h1> 
 <h3 align="center">Aspiring Software Developer 
 </h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip292&label=Profile%20views&color=0e75b6&style=flat" alt="pradip292" /> </p> -->
+<!-- <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip292&label=Profile%20views&color=0e75b6&style=flat" alt="pradip292" /> </p> -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
 </div>
@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/pradip292/"><img src="https://img.shields.io/badge/-LeetCode-FE7C7C?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://pradip292.github.io/portfolio_pradip292/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=pradip292&color=blueviolet" alt="Profile Views"/>
-</p>
+</p> -->
 
 🚀 About Me
 Currently
